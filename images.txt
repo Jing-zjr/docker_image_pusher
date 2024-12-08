@@ -1,1 +1,1 @@
-seataio/seata
+seataio/seata-server:1.8.0
