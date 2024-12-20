@@ -1,1 +1,1 @@
-openjdk:8-jre-slim
+nacos/nacos-server:v1.4.8
