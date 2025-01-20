@@ -1,1 +1,1 @@
-centos:7.9.2009
+openzipkin/zipkin:2.21.7
