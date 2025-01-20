@@ -1,1 +1,1 @@
-apche/skywalking-oap-server:9.5.0
+apache/skywalking-oap-server:9.5.0
