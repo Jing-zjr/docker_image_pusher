@@ -1,1 +1,1 @@
-apache/skywalking-ui:9.5.0
+openzipkin/zipkin:3.4.4
