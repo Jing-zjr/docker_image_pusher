@@ -1,1 +1,1 @@
-seataio/seata-server:v2.2.0
+corentinth/it-tools:latest
