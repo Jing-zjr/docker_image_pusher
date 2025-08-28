@@ -1,1 +1,1 @@
-b3log/siyuan:latest
+emqx/emqx-enterprise:5.10.0
