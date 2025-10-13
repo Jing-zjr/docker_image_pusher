@@ -1,1 +1,1 @@
-mysql:8.0.22
+docker.io/library/redis:8.2.2
